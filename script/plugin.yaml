@@ -1,0 +1,23 @@
+agentType: easyops
+type: simple-script
+
+name: dameng_collector_plugin
+version: 1.0.0
+
+command:
+  collect:
+    type: shell
+    user: root
+    interpreter: /bin/bash
+    scriptPath:
+      - src
+      - run.sh
+
+category: 数据库
+
+params:
+  - host
+  - port
+  - user
+  - password
+  - dm_bin_path

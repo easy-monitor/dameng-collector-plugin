@@ -1,0 +1,11 @@
+from metric_define.connect_collector_define import connect_collector_define
+from metric_define.data_file_collector_define import data_file_collector_define
+from metric_define.process_collector_define import process_collector_define
+from metric_define.table_space_collector_define import table_space_collector_define
+from metric_define.session_collector_define import session_collector_define
+from metric_define.threads_collector_define import threads_collector_define
+from metric_define.trx_collector_define import trx_collector_define
+
+
+check_list = [data_file_collector_define, table_space_collector_define, connect_collector_define,
+              session_collector_define, trx_collector_define, process_collector_define, threads_collector_define]

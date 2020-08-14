@@ -1,0 +1,786 @@
+[
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "FILE_NAME",
+                "description": "\u6570\u636e\u6587\u4ef6\u540d\u79f0"
+            }
+        ],
+        "name": "data_file_status",
+        "data_type": "string",
+        "agentType": "easyops",
+        "key": "data_file_status",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "FILE_NAME",
+                "description": "\u6570\u636e\u6587\u4ef6\u540d\u79f0"
+            }
+        ],
+        "name": "data_file_block_size",
+        "data_type": "long",
+        "agentType": "easyops",
+        "key": "data_file_block_size",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "FILE_NAME",
+                "description": "\u6570\u636e\u6587\u4ef6\u540d\u79f0"
+            }
+        ],
+        "name": "data_file_online_status",
+        "data_type": "string",
+        "agentType": "easyops",
+        "key": "data_file_online_status",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "FILE_NAME",
+                "description": "\u6570\u636e\u6587\u4ef6\u540d\u79f0"
+            }
+        ],
+        "name": "data_file_size",
+        "data_type": "long",
+        "agentType": "easyops",
+        "key": "data_file_size",
+        "metric_type": "gauge",
+        "unit": "byte"
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "FILE_NAME",
+                "description": "\u6570\u636e\u6587\u4ef6\u540d\u79f0"
+            }
+        ],
+        "name": "data_file_id",
+        "data_type": "string",
+        "agentType": "easyops",
+        "key": "data_file_id",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "FILE_NAME",
+                "description": "\u6570\u636e\u6587\u4ef6\u540d\u79f0"
+            }
+        ],
+        "name": "data_file_relative_fno",
+        "data_type": "long",
+        "agentType": "easyops",
+        "key": "data_file_relative_fno",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "FILE_NAME",
+                "description": "\u6570\u636e\u6587\u4ef6\u540d\u79f0"
+            }
+        ],
+        "name": "data_file_user_byte",
+        "data_type": "long",
+        "agentType": "easyops",
+        "key": "data_file_user_byte",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "FILE_NAME",
+                "description": "\u6570\u636e\u6587\u4ef6\u540d\u79f0"
+            }
+        ],
+        "name": "data_file_max_block_size",
+        "data_type": "long",
+        "agentType": "easyops",
+        "key": "data_file_max_block_size",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "FILE_NAME",
+                "description": "\u6570\u636e\u6587\u4ef6\u540d\u79f0"
+            }
+        ],
+        "name": "data_file_user_block",
+        "data_type": "long",
+        "agentType": "easyops",
+        "key": "data_file_user_block",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "FILE_NAME",
+                "description": "\u6570\u636e\u6587\u4ef6\u540d\u79f0"
+            }
+        ],
+        "name": "tablespace_name",
+        "data_type": "string",
+        "agentType": "easyops",
+        "key": "tablespace_name",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "FILE_NAME",
+                "description": "\u6570\u636e\u6587\u4ef6\u540d\u79f0"
+            }
+        ],
+        "name": "data_file_max_size",
+        "data_type": "long",
+        "agentType": "easyops",
+        "key": "data_file_max_size",
+        "metric_type": "gauge",
+        "unit": "byte"
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "FILE_NAME",
+                "description": "\u6570\u636e\u6587\u4ef6\u540d\u79f0"
+            }
+        ],
+        "name": "is_auto_extensible",
+        "data_type": "string",
+        "agentType": "easyops",
+        "key": "is_auto_extensible",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "FILE_NAME",
+                "description": "\u6570\u636e\u6587\u4ef6\u540d\u79f0"
+            }
+        ],
+        "name": "data_file_increment_by",
+        "data_type": "long",
+        "agentType": "easyops",
+        "key": "data_file_increment_by",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "NAME",
+                "description": "\u8868\u7a7a\u95f4\u540d\u79f0"
+            }
+        ],
+        "name": "table_space_status",
+        "data_type": "long",
+        "agentType": "easyops",
+        "key": "table_space_status",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "NAME",
+                "description": "\u8868\u7a7a\u95f4\u540d\u79f0"
+            }
+        ],
+        "name": "table_space_encrypt_key",
+        "data_type": "string",
+        "agentType": "easyops",
+        "key": "table_space_encrypt_key",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "NAME",
+                "description": "\u8868\u7a7a\u95f4\u540d\u79f0"
+            }
+        ],
+        "name": "table_space_file_num",
+        "data_type": "long",
+        "agentType": "easyops",
+        "key": "table_space_file_num",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "NAME",
+                "description": "\u8868\u7a7a\u95f4\u540d\u79f0"
+            }
+        ],
+        "name": "table_space_total_size",
+        "data_type": "long",
+        "agentType": "easyops",
+        "key": "table_space_total_size",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "NAME",
+                "description": "\u8868\u7a7a\u95f4\u540d\u79f0"
+            }
+        ],
+        "name": "table_space_cache_name",
+        "data_type": "string",
+        "agentType": "easyops",
+        "key": "table_space_cache_name",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "NAME",
+                "description": "\u8868\u7a7a\u95f4\u540d\u79f0"
+            }
+        ],
+        "name": "table_space_type",
+        "data_type": "long",
+        "agentType": "easyops",
+        "key": "table_space_type",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "NAME",
+                "description": "\u8868\u7a7a\u95f4\u540d\u79f0"
+            }
+        ],
+        "name": "table_space_id",
+        "data_type": "long",
+        "agentType": "easyops",
+        "key": "table_space_id",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "NAME",
+                "description": "\u8868\u7a7a\u95f4\u540d\u79f0"
+            }
+        ],
+        "name": "table_space_max_size",
+        "data_type": "long",
+        "agentType": "easyops",
+        "key": "table_space_max_size",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "NAME",
+                "description": "\u8868\u7a7a\u95f4\u540d\u79f0"
+            }
+        ],
+        "name": "table_space_encrypt_name",
+        "data_type": "string",
+        "agentType": "easyops",
+        "key": "table_space_encrypt_name",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "NAME",
+                "description": "\u8fde\u63a5\u540d\u79f0"
+            }
+        ],
+        "name": "connect_status",
+        "data_type": "string",
+        "agentType": "easyops",
+        "key": "connect_status",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "NAME",
+                "description": "\u8fde\u63a5\u540d\u79f0"
+            }
+        ],
+        "name": "connect_ip_addr",
+        "data_type": "string",
+        "agentType": "easyops",
+        "key": "connect_ip_addr",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "NAME",
+                "description": "\u8fde\u63a5\u540d\u79f0"
+            }
+        ],
+        "name": "connect_create_time",
+        "data_type": "long",
+        "agentType": "easyops",
+        "key": "connect_create_time",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "NAME",
+                "description": "\u8fde\u63a5\u540d\u79f0"
+            }
+        ],
+        "name": "connect_saddr",
+        "data_type": "string",
+        "agentType": "easyops",
+        "key": "connect_saddr",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "NAME",
+                "description": "\u8fde\u63a5\u540d\u79f0"
+            }
+        ],
+        "name": "connect_type",
+        "data_type": "string",
+        "agentType": "easyops",
+        "key": "connect_type",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "NAME",
+                "description": "\u8fde\u63a5\u540d\u79f0"
+            }
+        ],
+        "name": "connect_protocol_type",
+        "data_type": "long",
+        "agentType": "easyops",
+        "key": "connect_protocol_type",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "SESS_SEQ",
+                "description": "\u4f1a\u8bdd\u5e8f\u5217\u53f7\uff0c\u7528\u6765\u552f\u4e00\u6807\u8bc6\u4f1a\u8bdd"
+            }
+        ],
+        "name": "sess_client_host",
+        "data_type": "string",
+        "agentType": "easyops",
+        "key": "sess_client_host",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "SESS_SEQ",
+                "description": "\u4f1a\u8bdd\u5e8f\u5217\u53f7\uff0c\u7528\u6765\u552f\u4e00\u6807\u8bc6\u4f1a\u8bdd"
+            }
+        ],
+        "name": "sess_create_time",
+        "data_type": "long",
+        "agentType": "easyops",
+        "key": "sess_create_time",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "SESS_SEQ",
+                "description": "\u4f1a\u8bdd\u5e8f\u5217\u53f7\uff0c\u7528\u6765\u552f\u4e00\u6807\u8bc6\u4f1a\u8bdd"
+            }
+        ],
+        "name": "sess_trx_id",
+        "data_type": "long",
+        "agentType": "easyops",
+        "key": "sess_trx_id",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "SESS_SEQ",
+                "description": "\u4f1a\u8bdd\u5e8f\u5217\u53f7\uff0c\u7528\u6765\u552f\u4e00\u6807\u8bc6\u4f1a\u8bdd"
+            }
+        ],
+        "name": "sess_client_type",
+        "data_type": "string",
+        "agentType": "easyops",
+        "key": "sess_client_type",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "SESS_SEQ",
+                "description": "\u4f1a\u8bdd\u5e8f\u5217\u53f7\uff0c\u7528\u6765\u552f\u4e00\u6807\u8bc6\u4f1a\u8bdd"
+            }
+        ],
+        "name": "sess_id",
+        "data_type": "string",
+        "agentType": "easyops",
+        "key": "sess_id",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "SESS_SEQ",
+                "description": "\u4f1a\u8bdd\u5e8f\u5217\u53f7\uff0c\u7528\u6765\u552f\u4e00\u6807\u8bc6\u4f1a\u8bdd"
+            }
+        ],
+        "name": "sess_curr_sch",
+        "data_type": "string",
+        "agentType": "easyops",
+        "key": "sess_curr_sch",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "SESS_SEQ",
+                "description": "\u4f1a\u8bdd\u5e8f\u5217\u53f7\uff0c\u7528\u6765\u552f\u4e00\u6807\u8bc6\u4f1a\u8bdd"
+            }
+        ],
+        "name": "sess_user_name",
+        "data_type": "long",
+        "agentType": "easyops",
+        "key": "sess_user_name",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "SESS_SEQ",
+                "description": "\u4f1a\u8bdd\u5e8f\u5217\u53f7\uff0c\u7528\u6765\u552f\u4e00\u6807\u8bc6\u4f1a\u8bdd"
+            }
+        ],
+        "name": "sess_state",
+        "data_type": "string",
+        "agentType": "easyops",
+        "key": "sess_state",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "SESS_SEQ",
+                "description": "\u4f1a\u8bdd\u5e8f\u5217\u53f7\uff0c\u7528\u6765\u552f\u4e00\u6807\u8bc6\u4f1a\u8bdd"
+            }
+        ],
+        "name": "sess_client_ip",
+        "data_type": "string",
+        "agentType": "easyops",
+        "key": "sess_client_ip",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "ID",
+                "description": "\u5f53\u524d\u6d3b\u52a8\u4e8b\u52a1\u7684 ID \u53f7"
+            }
+        ],
+        "name": "trx_status",
+        "data_type": "string",
+        "agentType": "easyops",
+        "key": "trx_status",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "ID",
+                "description": "\u5f53\u524d\u6d3b\u52a8\u4e8b\u52a1\u7684 ID \u53f7"
+            }
+        ],
+        "name": "trx_xid",
+        "data_type": "string",
+        "agentType": "easyops",
+        "key": "trx_xid",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "ID",
+                "description": "\u5f53\u524d\u6d3b\u52a8\u4e8b\u52a1\u7684 ID \u53f7"
+            }
+        ],
+        "name": "trx_isolation_level",
+        "data_type": "string",
+        "agentType": "easyops",
+        "key": "trx_isolation_level",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "ID",
+                "description": "\u5f53\u524d\u6d3b\u52a8\u4e8b\u52a1\u7684 ID \u53f7"
+            }
+        ],
+        "name": "trx_session_seq",
+        "data_type": "string",
+        "agentType": "easyops",
+        "key": "trx_session_seq",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "ID",
+                "description": "\u5f53\u524d\u6d3b\u52a8\u4e8b\u52a1\u7684 ID \u53f7"
+            }
+        ],
+        "name": "trx_session_id",
+        "data_type": "long",
+        "agentType": "easyops",
+        "key": "trx_session_id",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "ID",
+                "description": "\u5f53\u524d\u6d3b\u52a8\u4e8b\u52a1\u7684 ID \u53f7"
+            }
+        ],
+        "name": "next_trx_id",
+        "data_type": "string",
+        "agentType": "easyops",
+        "key": "next_trx_id",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "PNAME",
+                "description": "\u8fdb\u7a0b\u540d"
+            }
+        ],
+        "name": "pid",
+        "data_type": "long",
+        "agentType": "easyops",
+        "key": "pid",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "PNAME",
+                "description": "\u8fdb\u7a0b\u540d"
+            }
+        ],
+        "name": "ptype",
+        "data_type": "long",
+        "agentType": "easyops",
+        "key": "ptype",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "PNAME",
+                "description": "\u8fdb\u7a0b\u540d"
+            }
+        ],
+        "name": "trace_name",
+        "data_type": "string",
+        "agentType": "easyops",
+        "key": "trace_name",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "NAME",
+                "description": "\u7ebf\u7a0b\u540d"
+            }
+        ],
+        "name": "thread_time",
+        "data_type": "long",
+        "agentType": "easyops",
+        "key": "thread_time",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "NAME",
+                "description": "\u7ebf\u7a0b\u540d"
+            }
+        ],
+        "name": "thread_desc",
+        "data_type": "string",
+        "agentType": "easyops",
+        "key": "thread_desc",
+        "metric_type": "gauge",
+        "unit": ""
+    },
+    {
+        "tagDefine": [
+            {
+                "default": "",
+                "readOnly": true,
+                "name": "NAME",
+                "description": "\u7ebf\u7a0b\u540d"
+            }
+        ],
+        "name": "thread_id",
+        "data_type": "string",
+        "agentType": "easyops",
+        "key": "thread_id",
+        "metric_type": "gauge",
+        "unit": ""
+    }
+]

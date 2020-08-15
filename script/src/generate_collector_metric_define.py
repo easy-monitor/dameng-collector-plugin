@@ -15,7 +15,7 @@ def get_metric_define():
             if dim_define:
                 tags.append(
                     {
-                        "name": dim,
+                        "name": dim_define["metric_name"],
                         "default": "",
                         "readOnly": True,
                         "description": dim_define["desc"]
@@ -28,8 +28,8 @@ def get_metric_define():
             metric['key'] = metric_define["metric_name"]
             metric['agentType'] = agent_type
             metric['tagDefine'] = tags
-            metric['data_type'] = metric_define["data_type"]
-            metric['metric_type'] = metric_define["metric_type"]
+            metric['dataType'] = metric_define["data_type"]
+            metric['metricType'] = metric_define["metric_type"]
             metric['unit'] = metric_define.get("unit", "")
             metric_list.append(metric)
     return metric_list

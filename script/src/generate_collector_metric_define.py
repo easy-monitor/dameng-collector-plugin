@@ -24,7 +24,6 @@ def get_metric_define():
 
         for name, metric_define in item["metric"].iteritems():
             metric = {}
-            metric['name'] = metric_define["metric_name"]
             metric['key'] = metric_define["metric_name"]
             metric['agentType'] = agent_type
             metric['tagDefine'] = tags

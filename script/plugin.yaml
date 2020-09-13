@@ -14,7 +14,6 @@ command:
       - run.sh
 
 category: 数据库
-
 params:
   - host
   - port

@@ -1,9 +1,8 @@
 [
     {
-        "namespace": "resource-monitor._DM_INSTANCE",
         "_object_id": "_DASHBOARD",
-        "instanceId": "5ace1b7063feb",
-        "name": "达梦",
+        "namespace": "resource-monitor._DM_INSTANCE",
+        "name": "达梦数据库实例总览",
         "panels": [
             {
                 "brickConf": "{\"brick\":\"chart-v2.time-series-chart\",\"properties\":{\"height\":200,\"yFields\":[\"pid\"],\"xField\":\"time\"},\"lifeCycle\":{\"useResolves\":[{\"provider\":\"providers-of-data-exchange.olap-api-query\",\"args\":[{\"model\":\"easyops.HOST\",\"dims\":[\"time(1m)\"],\"measures\":[{\"name\":\"pid\",\"function\":{\"expression\":\"count\",\"args\":[\"pid\"]}}],\"filters\":[{\"name\":\"instanceId\",\"operator\":\"==\",\"value\":\"${QUERY.instanceId|string}\"},{\"name\":\"time\",\"operator\":\">=\",\"value\":\"${QUERY.from=\\\"now-1h\\\"|string}\"},{\"name\":\"time\",\"operator\":\"<=\",\"value\":\"<% parseInt(+moment() / 1000) %>\"}],\"order\":[{\"name\":\"time\",\"order\":\"desc\"}]}],\"transform\":{\"data\":\"@{list}\"},\"onReject\":{\"transform\":{\"error\":\"<% DATA.message || '接口请求错误' %>\"}}}]}}",

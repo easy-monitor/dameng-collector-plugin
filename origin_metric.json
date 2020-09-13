@@ -5,7 +5,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "data_file_name",
-                "description": "\u6570\u636e\u6587\u4ef6\u540d\u79f0"
+                "description": "数据文件名称"
             }
         ],
         "dataType": "string",
@@ -20,7 +20,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "data_file_name",
-                "description": "\u6570\u636e\u6587\u4ef6\u540d\u79f0"
+                "description": "数据文件名称"
             }
         ],
         "dataType": "long",
@@ -35,7 +35,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "data_file_name",
-                "description": "\u6570\u636e\u6587\u4ef6\u540d\u79f0"
+                "description": "数据文件名称"
             }
         ],
         "dataType": "string",
@@ -50,7 +50,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "data_file_name",
-                "description": "\u6570\u636e\u6587\u4ef6\u540d\u79f0"
+                "description": "数据文件名称"
             }
         ],
         "dataType": "long",
@@ -65,7 +65,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "data_file_name",
-                "description": "\u6570\u636e\u6587\u4ef6\u540d\u79f0"
+                "description": "数据文件名称"
             }
         ],
         "dataType": "string",
@@ -80,7 +80,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "data_file_name",
-                "description": "\u6570\u636e\u6587\u4ef6\u540d\u79f0"
+                "description": "数据文件名称"
             }
         ],
         "dataType": "long",
@@ -95,7 +95,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "data_file_name",
-                "description": "\u6570\u636e\u6587\u4ef6\u540d\u79f0"
+                "description": "数据文件名称"
             }
         ],
         "dataType": "long",
@@ -110,7 +110,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "data_file_name",
-                "description": "\u6570\u636e\u6587\u4ef6\u540d\u79f0"
+                "description": "数据文件名称"
             }
         ],
         "dataType": "long",
@@ -125,7 +125,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "data_file_name",
-                "description": "\u6570\u636e\u6587\u4ef6\u540d\u79f0"
+                "description": "数据文件名称"
             }
         ],
         "dataType": "long",
@@ -140,7 +140,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "data_file_name",
-                "description": "\u6570\u636e\u6587\u4ef6\u540d\u79f0"
+                "description": "数据文件名称"
             }
         ],
         "dataType": "string",
@@ -155,7 +155,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "data_file_name",
-                "description": "\u6570\u636e\u6587\u4ef6\u540d\u79f0"
+                "description": "数据文件名称"
             }
         ],
         "dataType": "long",
@@ -170,7 +170,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "data_file_name",
-                "description": "\u6570\u636e\u6587\u4ef6\u540d\u79f0"
+                "description": "数据文件名称"
             }
         ],
         "dataType": "string",
@@ -185,7 +185,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "data_file_name",
-                "description": "\u6570\u636e\u6587\u4ef6\u540d\u79f0"
+                "description": "数据文件名称"
             }
         ],
         "dataType": "long",
@@ -200,7 +200,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "table_space_name",
-                "description": "\u8868\u7a7a\u95f4\u540d\u79f0"
+                "description": "表空间名称"
             }
         ],
         "dataType": "long",
@@ -215,7 +215,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "table_space_name",
-                "description": "\u8868\u7a7a\u95f4\u540d\u79f0"
+                "description": "表空间名称"
             }
         ],
         "dataType": "string",
@@ -230,7 +230,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "table_space_name",
-                "description": "\u8868\u7a7a\u95f4\u540d\u79f0"
+                "description": "表空间名称"
             }
         ],
         "dataType": "long",
@@ -245,7 +245,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "table_space_name",
-                "description": "\u8868\u7a7a\u95f4\u540d\u79f0"
+                "description": "表空间名称"
             }
         ],
         "dataType": "long",
@@ -260,7 +260,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "table_space_name",
-                "description": "\u8868\u7a7a\u95f4\u540d\u79f0"
+                "description": "表空间名称"
             }
         ],
         "dataType": "string",
@@ -275,7 +275,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "table_space_name",
-                "description": "\u8868\u7a7a\u95f4\u540d\u79f0"
+                "description": "表空间名称"
             }
         ],
         "dataType": "long",
@@ -290,7 +290,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "table_space_name",
-                "description": "\u8868\u7a7a\u95f4\u540d\u79f0"
+                "description": "表空间名称"
             }
         ],
         "dataType": "long",
@@ -305,7 +305,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "table_space_name",
-                "description": "\u8868\u7a7a\u95f4\u540d\u79f0"
+                "description": "表空间名称"
             }
         ],
         "dataType": "long",
@@ -320,7 +320,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "table_space_name",
-                "description": "\u8868\u7a7a\u95f4\u540d\u79f0"
+                "description": "表空间名称"
             }
         ],
         "dataType": "string",
@@ -335,7 +335,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "connect_name",
-                "description": "\u8fde\u63a5\u540d\u79f0"
+                "description": "连接名称"
             }
         ],
         "dataType": "string",
@@ -350,7 +350,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "connect_name",
-                "description": "\u8fde\u63a5\u540d\u79f0"
+                "description": "连接名称"
             }
         ],
         "dataType": "string",
@@ -365,7 +365,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "connect_name",
-                "description": "\u8fde\u63a5\u540d\u79f0"
+                "description": "连接名称"
             }
         ],
         "dataType": "long",
@@ -380,7 +380,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "connect_name",
-                "description": "\u8fde\u63a5\u540d\u79f0"
+                "description": "连接名称"
             }
         ],
         "dataType": "string",
@@ -395,7 +395,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "connect_name",
-                "description": "\u8fde\u63a5\u540d\u79f0"
+                "description": "连接名称"
             }
         ],
         "dataType": "string",
@@ -410,7 +410,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "connect_name",
-                "description": "\u8fde\u63a5\u540d\u79f0"
+                "description": "连接名称"
             }
         ],
         "dataType": "long",
@@ -425,7 +425,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "sess_seq",
-                "description": "\u4f1a\u8bdd\u5e8f\u5217\u53f7\uff0c\u7528\u6765\u552f\u4e00\u6807\u8bc6\u4f1a\u8bdd"
+                "description": "会话序列号，用来唯一标识会话"
             }
         ],
         "dataType": "string",
@@ -440,7 +440,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "sess_seq",
-                "description": "\u4f1a\u8bdd\u5e8f\u5217\u53f7\uff0c\u7528\u6765\u552f\u4e00\u6807\u8bc6\u4f1a\u8bdd"
+                "description": "会话序列号，用来唯一标识会话"
             }
         ],
         "dataType": "long",
@@ -455,7 +455,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "sess_seq",
-                "description": "\u4f1a\u8bdd\u5e8f\u5217\u53f7\uff0c\u7528\u6765\u552f\u4e00\u6807\u8bc6\u4f1a\u8bdd"
+                "description": "会话序列号，用来唯一标识会话"
             }
         ],
         "dataType": "long",
@@ -470,7 +470,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "sess_seq",
-                "description": "\u4f1a\u8bdd\u5e8f\u5217\u53f7\uff0c\u7528\u6765\u552f\u4e00\u6807\u8bc6\u4f1a\u8bdd"
+                "description": "会话序列号，用来唯一标识会话"
             }
         ],
         "dataType": "string",
@@ -485,7 +485,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "sess_seq",
-                "description": "\u4f1a\u8bdd\u5e8f\u5217\u53f7\uff0c\u7528\u6765\u552f\u4e00\u6807\u8bc6\u4f1a\u8bdd"
+                "description": "会话序列号，用来唯一标识会话"
             }
         ],
         "dataType": "string",
@@ -500,7 +500,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "sess_seq",
-                "description": "\u4f1a\u8bdd\u5e8f\u5217\u53f7\uff0c\u7528\u6765\u552f\u4e00\u6807\u8bc6\u4f1a\u8bdd"
+                "description": "会话序列号，用来唯一标识会话"
             }
         ],
         "dataType": "string",
@@ -515,7 +515,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "sess_seq",
-                "description": "\u4f1a\u8bdd\u5e8f\u5217\u53f7\uff0c\u7528\u6765\u552f\u4e00\u6807\u8bc6\u4f1a\u8bdd"
+                "description": "会话序列号，用来唯一标识会话"
             }
         ],
         "dataType": "long",
@@ -530,7 +530,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "sess_seq",
-                "description": "\u4f1a\u8bdd\u5e8f\u5217\u53f7\uff0c\u7528\u6765\u552f\u4e00\u6807\u8bc6\u4f1a\u8bdd"
+                "description": "会话序列号，用来唯一标识会话"
             }
         ],
         "dataType": "string",
@@ -545,7 +545,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "sess_seq",
-                "description": "\u4f1a\u8bdd\u5e8f\u5217\u53f7\uff0c\u7528\u6765\u552f\u4e00\u6807\u8bc6\u4f1a\u8bdd"
+                "description": "会话序列号，用来唯一标识会话"
             }
         ],
         "dataType": "string",
@@ -560,7 +560,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "trx_id",
-                "description": "\u5f53\u524d\u6d3b\u52a8\u4e8b\u52a1\u7684 ID \u53f7"
+                "description": "当前活动事务的 ID 号"
             }
         ],
         "dataType": "string",
@@ -575,7 +575,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "trx_id",
-                "description": "\u5f53\u524d\u6d3b\u52a8\u4e8b\u52a1\u7684 ID \u53f7"
+                "description": "当前活动事务的 ID 号"
             }
         ],
         "dataType": "string",
@@ -590,7 +590,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "trx_id",
-                "description": "\u5f53\u524d\u6d3b\u52a8\u4e8b\u52a1\u7684 ID \u53f7"
+                "description": "当前活动事务的 ID 号"
             }
         ],
         "dataType": "string",
@@ -605,7 +605,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "trx_id",
-                "description": "\u5f53\u524d\u6d3b\u52a8\u4e8b\u52a1\u7684 ID \u53f7"
+                "description": "当前活动事务的 ID 号"
             }
         ],
         "dataType": "string",
@@ -620,7 +620,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "trx_id",
-                "description": "\u5f53\u524d\u6d3b\u52a8\u4e8b\u52a1\u7684 ID \u53f7"
+                "description": "当前活动事务的 ID 号"
             }
         ],
         "dataType": "long",
@@ -635,7 +635,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "trx_id",
-                "description": "\u5f53\u524d\u6d3b\u52a8\u4e8b\u52a1\u7684 ID \u53f7"
+                "description": "当前活动事务的 ID 号"
             }
         ],
         "dataType": "string",
@@ -650,7 +650,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "pname",
-                "description": "\u8fdb\u7a0b\u540d"
+                "description": "进程名"
             }
         ],
         "dataType": "long",
@@ -665,7 +665,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "pname",
-                "description": "\u8fdb\u7a0b\u540d"
+                "description": "进程名"
             }
         ],
         "dataType": "long",
@@ -680,7 +680,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "pname",
-                "description": "\u8fdb\u7a0b\u540d"
+                "description": "进程名"
             }
         ],
         "dataType": "string",
@@ -695,7 +695,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "thread_name",
-                "description": "\u7ebf\u7a0b\u540d"
+                "description": "线程名"
             }
         ],
         "dataType": "long",
@@ -710,7 +710,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "thread_name",
-                "description": "\u7ebf\u7a0b\u540d"
+                "description": "线程名"
             }
         ],
         "dataType": "string",
@@ -725,7 +725,7 @@
                 "default": "",
                 "readOnly": true,
                 "name": "thread_name",
-                "description": "\u7ebf\u7a0b\u540d"
+                "description": "线程名"
             }
         ],
         "dataType": "string",

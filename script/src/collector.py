@@ -19,7 +19,7 @@ metric_data = {
 }
 
 sql_template = "select * from {}"
-host = os.environ.get("EASYOPS_COLLECTOR_host")
+host = os.environ.get("EASYOPS_COLLECTOR_host_ip")
 port = os.environ.get("EASYOPS_COLLECTOR_port")
 user = os.environ.get("EASYOPS_COLLECTOR_user")
 password = os.environ.get("EASYOPS_COLLECTOR_password")

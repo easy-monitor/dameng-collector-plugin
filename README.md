@@ -28,6 +28,14 @@ EasyOps 达梦数据库监控插件包是适用于 EasyOps 新版监控平台，
 
 主流的达梦数据库版本。
 
+## 准备工作
+
+1. 采集的 agent 需要编译安装达梦的 python 驱动包,  并验证能够成功导入dmPython库。
+```
+import dmPython
+```
+
+
 ## 使用方法
 
 1. 下载该项目的压缩包 ( https://github.com/easy-monitor/dameng-collector-plugin/archive/master.zip )。
@@ -100,7 +108,7 @@ command:
 category: 数据库
 # 采集插件参数列表
 params:
-  - host
+  - host_ip
   - port
   - user
   - password

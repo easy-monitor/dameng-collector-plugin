@@ -15,7 +15,7 @@ command:
 
 category: 数据库
 params:
-  - host
+  - host_ip
   - port
   - user
   - password
